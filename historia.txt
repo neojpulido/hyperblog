@@ -4,4 +4,6 @@ Este es un curso de Git con @Freddier de @Platzi
 
 Mañana nos enfocaremos en su vida laboral.
 
+Este mi nuevo perfil de GitHub Developer.
+
 Esto es un cambio desde HGitHub Web.
