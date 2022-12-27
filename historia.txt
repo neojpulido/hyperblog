@@ -9,3 +9,5 @@ Este mi nuevo perfil de GitHub Developer.
 Esto es un cambio desde HGitHub Web.
 
 Juan Pulido Developer @jpulidodev está actualizando esta web desde Ubunto
+
+Juan Pulido Developer contribuye en el proyecto open source Hyperblog.
